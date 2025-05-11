@@ -8,6 +8,10 @@ environment:
 
 dependencies:
   dart_frog: ^1.1.0
+  dart_frog_auth: ^1.2.0
+  dart_jsonwebtoken: ^3.2.0
+  user_data_source:
+    path: ./packages/user_data_source
 
 dev_dependencies:
   mocktail: ^1.0.3
